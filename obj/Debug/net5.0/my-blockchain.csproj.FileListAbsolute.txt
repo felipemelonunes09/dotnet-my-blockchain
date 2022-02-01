@@ -1,0 +1,16 @@
+C:\Users\felip\Desktop\Code\c#\dotnet\my-blockchain\obj\Debug\net5.0\my-blockchain.csproj.AssemblyReference.cache
+C:\Users\felip\Desktop\Code\c#\dotnet\my-blockchain\obj\Debug\net5.0\my-blockchain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Desktop\Code\c#\dotnet\my-blockchain\obj\Debug\net5.0\my-blockchain.AssemblyInfoInputs.cache
+C:\Users\felip\Desktop\Code\c#\dotnet\my-blockchain\obj\Debug\net5.0\my-blockchain.AssemblyInfo.cs
+C:\Users\felip\Desktop\Code\c#\dotnet\my-blockchain\obj\Debug\net5.0\my-blockchain.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\Code\c#\dotnet\my-blockchain\bin\Debug\net5.0\my-blockchain.exe
+C:\Users\felip\Desktop\Code\c#\dotnet\my-blockchain\bin\Debug\net5.0\my-blockchain.deps.json
+C:\Users\felip\Desktop\Code\c#\dotnet\my-blockchain\bin\Debug\net5.0\my-blockchain.runtimeconfig.json
+C:\Users\felip\Desktop\Code\c#\dotnet\my-blockchain\bin\Debug\net5.0\my-blockchain.runtimeconfig.dev.json
+C:\Users\felip\Desktop\Code\c#\dotnet\my-blockchain\bin\Debug\net5.0\my-blockchain.dll
+C:\Users\felip\Desktop\Code\c#\dotnet\my-blockchain\bin\Debug\net5.0\ref\my-blockchain.dll
+C:\Users\felip\Desktop\Code\c#\dotnet\my-blockchain\bin\Debug\net5.0\my-blockchain.pdb
+C:\Users\felip\Desktop\Code\c#\dotnet\my-blockchain\obj\Debug\net5.0\my-blockchain.dll
+C:\Users\felip\Desktop\Code\c#\dotnet\my-blockchain\obj\Debug\net5.0\ref\my-blockchain.dll
+C:\Users\felip\Desktop\Code\c#\dotnet\my-blockchain\obj\Debug\net5.0\my-blockchain.pdb
+C:\Users\felip\Desktop\Code\c#\dotnet\my-blockchain\obj\Debug\net5.0\my-blockchain.genruntimeconfig.cache
